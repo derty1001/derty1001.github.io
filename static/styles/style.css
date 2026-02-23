@@ -1,0 +1,88 @@
+header {
+    height: 100px;
+    background-color: #462e09;
+    display: flex;
+    justify-content: space-between;
+}
+header>a {
+    border-radius: 15px;
+    font-size: 25px;
+    padding: 20px 10px 10px 30px;
+    border: 1px solid #C3AE90;
+    margin: 15px 10px 30px 1px;
+    color: white;
+    text-decoration: none;
+    color: #C3AE90;
+    background-color: #2E1F09;
+    width: 100px;
+    height: 40px;
+    
+}
+body {
+    background-color: #c2aa88;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    text-align: center;
+    font-size: 70px;
+}
+.sell {
+    padding: 15px;
+    font-size: 25px;
+}
+.menu>table>tbody>tr>th {
+    padding: 15px;
+}
+#text>p {
+    max-width: 59%;
+}
+#text>img {
+    max-width: 10%;
+}
+#text {
+    display: flex; 
+    gap: 20px; 
+    align-items: center;
+}
+#ContactButton {
+    padding-left: 10px;
+}
+#agree {
+    text-decoration: underline;
+}
+.Contact {
+    color: beige;
+    text-align: center;
+    background-color: rgba(30, 20, 1, 0.981);
+    
+}
+#huyna {
+    display: flex;
+    justify-content: space-around;
+}
+#nehuyna {
+    display: flex;
+    justify-content: space-around;
+}
+.Reservations>form>input {
+    background-color: #f4eadce1;
+}
+.Reservations>form>button {
+    background-color: #f4eadce1;
+    border-radius: 5px;
+}
+table {
+    border-radius: 5px;
+}
+.menu, .AboutUs, .Reservations {
+    margin: 10px;
+}
+.chapter {
+    font-size: 30px;
+}
+#photo {
+    text-decoration: none;
+    color: black;
+    font-size: 10px;
+}
